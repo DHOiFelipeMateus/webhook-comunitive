@@ -1,1 +1,1 @@
-from app.webhook.server import app
+from app.api.server import app
